@@ -1,4 +1,4 @@
-name 'mysql'
+name 'percona-chef'
 description 'Installs Percona MySQL client and server'
 maintainer 'Jagatveer Singh'
 maintainer_email 'jagatveer@hotmail.com'

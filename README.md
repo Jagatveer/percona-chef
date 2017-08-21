@@ -1,4 +1,4 @@
-Percona Cookbook
+percona-chef Cookbook
 =====================
 This cookbook is to install and manage Percona MySQL 5.6 with xtrabackup. A good example on how to manage the configurations dynamically.
 

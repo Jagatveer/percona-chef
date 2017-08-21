@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: mysql
+# Cookbook Name:: percona-chef
 # Library:: mysql
 #
 # Author: Jagatveer Singh
